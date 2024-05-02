@@ -1,12 +1,12 @@
 # Potato Disease Classification using Deep Learning
 
-### Introduction
+**Introduction**
 
 In the agriculture industry, farmers often face challenges in identifying diseases in potato plants, such as early blight, late blight, or determining if the plant is healthy. This uncertainty makes it difficult for farmers to apply the appropriate fertilizers and treatments, impacting crop yield and quality. To address this issue, we have developed a deep learning model using TensorFlow to classify images of potato plants, aiding in the accurate identification of diseases. By leveraging machine learning technology, our solution aims to improve agricultural practices, optimize resource allocation, and ultimately enhance the production of healthy potato plants.
 
 <br />
 
-### Table of Contents
+**Table of Contents**
 
 1. Key Technologies and Skills
 2. Installation
@@ -18,7 +18,7 @@ In the agriculture industry, farmers often face challenges in identifying diseas
 
 <br />
 
-### Key Technologies and Skills
+**Key Technologies and Skills**
 - Python
 - TensorFlow
 - Keras
@@ -30,7 +30,7 @@ In the agriculture industry, farmers often face challenges in identifying diseas
 
 <br />
 
-### Installation
+**Installation**
 
 To run this project, you need to install the following packages:
 
@@ -51,7 +51,7 @@ pip install tensorflow==2.12.0 --upgrade
 
 <br />
 
-### Usage
+**Usage**
 
 To use this project, follow these steps:
 
@@ -62,7 +62,7 @@ To use this project, follow these steps:
 
 <br />
 
-### Features
+**Features**
 
 #### Data Collection:
    - We obtained the potato disease image dataset from Kaggle, a renowned platform for datasets and data science resources. This dataset consists of images depicting diseased potato plant leaves, meticulously labeled into categories such as early blight, healthy, and late blight.
@@ -94,6 +94,7 @@ To use this project, follow these steps:
 
 🚀 Application: [https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification](https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification)
 
+<br />
 
 ![](https://github.com/gopiashokan/Potato-Disease-Classification-using-Deep-Learning/blob/main/image/Inference_image_output.JPG)
 

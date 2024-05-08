@@ -94,7 +94,11 @@ To use this project, follow these steps:
    - Following the completion of model training and evaluation, the trained model is saved to enable seamless deployment and inference on new images for classification purposes. To facilitate this process, a user-friendly Streamlit application is developed and deployed on the Hugging Face platform. 
    - This application empowers users to upload new images and obtain real-time classification results, providing a convenient interface for leveraging the model's capabilities in practical scenarios.
 
-🚀 Application: [https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification](https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification)
+<br />
+
+🎬 **Project Demo Video:** [https://youtu.be/XM7sg99a5no](https://youtu.be/XM7sg99a5no)
+
+🚀 **Application:** [https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification](https://huggingface.co/spaces/gopiashokan/Potato-Disease-Classification)
 
 <br />
 

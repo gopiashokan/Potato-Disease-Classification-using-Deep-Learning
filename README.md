@@ -23,11 +23,12 @@ In the agriculture industry, farmers often face challenges in identifying diseas
 **Key Technologies and Skills**
 - Python
 - TensorFlow
-- Keras
 - Convolutional Neural Network (CNN)
+- Keras
+- OpenCV
+- Pillow
 - Numpy
 - Matplotlib
-- Pillow
 - Streamlit
 
 <br />
@@ -37,10 +38,11 @@ In the agriculture industry, farmers often face challenges in identifying diseas
 To run this project, you need to install the following packages:
 
 ```python
-pip install numpy
 pip install tensorflow
-pip install matplotlib
+pip install opencv-python
 pip install pillow
+pip install numpy
+pip install matplotlib
 pip install streamlit
 pip install streamlit_extras
 ```
